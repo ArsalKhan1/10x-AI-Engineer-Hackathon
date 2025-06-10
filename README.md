@@ -1,4 +1,4 @@
-# Linkedin Human Post Writer
+# LinkedIn Human Post Writer
 
 A CLI and Web UI tool that generates LinkedIn posts using OpenAI GPT-4o and ensures they sound human by checking with OpenAI's own detection capabilities.
 
