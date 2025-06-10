@@ -1,4 +1,4 @@
-# LinkedIn Human Post Writer
+# HumanGPT
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-humangpt.streamlit.app-brightgreen?style=for-the-badge)](https://humangpt.streamlit.app)
 
