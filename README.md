@@ -1,5 +1,7 @@
 # LinkedIn Human Post Writer
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-humangpt.streamlit.app-brightgreen?style=for-the-badge)](https://humangpt.streamlit.app)
+
 A CLI and Web UI tool that generates LinkedIn posts using OpenAI GPT-4o and ensures they sound human by checking with OpenAI's own detection capabilities.
 
 ## Features
